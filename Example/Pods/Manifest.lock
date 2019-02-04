@@ -1,16 +1,16 @@
 PODS:
-  - LIHAlert (2.0.0)
+  - LIHAlert (2.1.1)
 
 DEPENDENCIES:
   - LIHAlert (from `../`)
 
 EXTERNAL SOURCES:
   LIHAlert:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  LIHAlert: 9253f4de748c6eb55cf671e67c8c9e212932d86c
+  LIHAlert: 0f5b0623b06f8a9d6004630d5ed59636982d16f8
 
 PODFILE CHECKSUM: e58ab0c5c3988a283bbb9e9efda4cfa4725b2ed7
 
-COCOAPODS: 1.1.0.rc.2
+COCOAPODS: 1.5.3
